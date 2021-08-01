@@ -233,18 +233,22 @@ nav a:hover {
 
 .font1 {
     font-family: Montserrat;
+    font-size: 13px;
 }
 
 .font2 {
     font-family: Oswald;
+    font-size: 13px
 }
 
 .font3 {
     font-family: Roboto;
+    font-size: 13px;
 }
 
 .font4 {
     font-family: Ubuntu;
+    font-size: 13px;
 }
 
 .weight400 {
